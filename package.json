@@ -9,7 +9,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "@actions/artifact": "^0.3.0",
+    "@actions/artifact": "^2.1.7",
     "@actions/core": "^1.2.6",
     "screenshot-desktop": "^1.12.0"
   }
